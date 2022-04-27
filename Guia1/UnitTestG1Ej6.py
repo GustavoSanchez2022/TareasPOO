@@ -1,5 +1,5 @@
 import unittest
-from Ejer1parte6 import calcularDicimal
+from G1Ejercicio6 import calcularDicimal
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):

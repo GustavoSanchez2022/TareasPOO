@@ -1,5 +1,5 @@
 import unittest
-from Ejercicio1 import Ejercicio
+from G1Ejercicio1 import Ejercicio
 
 class TestEjercicio1(unittest.TestCase):
     def test_something1(self):

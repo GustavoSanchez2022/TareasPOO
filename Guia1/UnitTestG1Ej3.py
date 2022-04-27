@@ -1,5 +1,5 @@
 import unittest
-from Ejerecicio1b import colorPosicion
+from G1Ejercicio3 import colorPosicion
 
 
 class MyTestCase(unittest.TestCase):
